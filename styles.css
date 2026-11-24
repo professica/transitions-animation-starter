@@ -1,3 +1,11 @@
+/* Animated icon font for hamburger menu */
+@font-face {
+    font-family: 'Anicons Regular';
+    src: url('fonts/AniconsGX.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /*
     http://meyerweb.com/eric/tools/css/reset/ 
     v2.0 | 20110126
